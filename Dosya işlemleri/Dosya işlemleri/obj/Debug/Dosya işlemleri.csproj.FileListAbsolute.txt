@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\Dosya işlemleri\Dosya işlemleri\bin\Debug\Dosya işlemleri.exe.config
+C:\Users\PC\source\repos\Dosya işlemleri\Dosya işlemleri\bin\Debug\Dosya işlemleri.exe
+C:\Users\PC\source\repos\Dosya işlemleri\Dosya işlemleri\bin\Debug\Dosya işlemleri.pdb
+C:\Users\PC\source\repos\Dosya işlemleri\Dosya işlemleri\obj\Debug\Dosya işlemleri.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Dosya işlemleri\Dosya işlemleri\obj\Debug\Dosya işlemleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\Dosya işlemleri\Dosya işlemleri\obj\Debug\Dosya_işlemleri.Form1.resources
+C:\Users\PC\source\repos\Dosya işlemleri\Dosya işlemleri\obj\Debug\Dosya_işlemleri.Properties.Resources.resources
+C:\Users\PC\source\repos\Dosya işlemleri\Dosya işlemleri\obj\Debug\Dosya işlemleri.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Dosya işlemleri\Dosya işlemleri\obj\Debug\Dosya işlemleri.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Dosya işlemleri\Dosya işlemleri\obj\Debug\Dosya işlemleri.exe
+C:\Users\PC\source\repos\Dosya işlemleri\Dosya işlemleri\obj\Debug\Dosya işlemleri.pdb

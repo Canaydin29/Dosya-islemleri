@@ -1,0 +1,22 @@
+13.01.2024 14:25:34 - Klasör tarandı: C:\Users\PC\OneDrive\Masaüstü\Yeni klasör (3)
+13.01.2024 14:25:50 - Dosya kopyalandı: C:\Users\PC\OneDrive\Masaüstü\Yeni klasör (3)\Kopya_Release notes.txt -> C:\Users\PC\OneDrive\Masaüstü\Yeni klasör (3)\Kopya1_Release notes.txt
+13.01.2024 14:25:56 - Klasör tarandı: C:\Users\PC\OneDrive\Masaüstü\Yeni klasör (3)
+13.01.2024 14:26:02 - Dosya silindi: C:\Users\PC\OneDrive\Masaüstü\Yeni klasör (3)\Kopya1_Release notes.txt
+13.01.2024 14:26:08 - Dosya uzantısına göre filtreleme yapıldı: '.xml'
+13.01.2024 14:26:09 - Dosya uzantısına göre filtreleme yapıldı: '.txt'
+13.01.2024 14:31:50 - Klasör tarandı: C:\Users\PC\OneDrive\Masaüstü\Yeni klasör (3)
+13.01.2024 19:50:22 - Klasör tarandı: C:\Users\PC\OneDrive\Masaüstü\Yeni klasör (3)
+13.01.2024 19:50:34 - Dosya kopyalandı: C:\Users\PC\OneDrive\Masaüstü\Yeni klasör (3)\Kopya_Release notes.txt -> C:\Users\PC\OneDrive\Masaüstü\Yeni klasör (3)\Kopya2_Release notes.txt
+13.01.2024 19:50:53 - Klasör tarandı: C:\Users\PC\OneDrive\Masaüstü\Yeni klasör (3)
+13.01.2024 19:50:59 - Dosya silindi: C:\Users\PC\OneDrive\Masaüstü\Yeni klasör (3)\Kopya2_Release notes.txt
+13.01.2024 19:51:44 - Dosya taşındı: C:\Users\PC\OneDrive\Masaüstü\Yeni klasör (3)\Kopya_Release notes.txt -> C:\Users\PC\OneDrive\Masaüstü\Yeni klasör (2)\AForge.NET Framework-2.2.5-(libs only)\Kopya_Release notes.txt
+13.01.2024 19:51:54 - Klasör tarandı: C:\Users\PC\OneDrive\Masaüstü\Yeni klasör (2)\AForge.NET Framework-2.2.5-(libs only)
+13.01.2024 19:52:11 - Dosya taşındı: C:\Users\PC\OneDrive\Masaüstü\Yeni klasör (2)\AForge.NET Framework-2.2.5-(libs only)\Kopya_Release notes.txt -> C:\Users\PC\OneDrive\Masaüstü\Yeni klasör (3)\Kopya_Release notes.txt
+13.01.2024 19:52:20 - Dosya uzantısına göre filtreleme yapıldı: '.xml'
+13.01.2024 19:52:22 - Dosya uzantısına göre filtreleme yapıldı: '.txt'
+13.01.2024 19:52:26 - Hızlı arama yapıldı: 'c'
+13.01.2024 19:52:30 - Hızlı arama yapıldı: 'ci'
+13.01.2024 19:52:31 - Hızlı arama yapıldı: 'c'
+13.01.2024 19:52:33 - Hızlı arama yapıldı: 'co'
+13.01.2024 19:52:34 - Hızlı arama yapıldı: 'c'
+13.01.2024 19:52:34 - Hızlı arama yapıldı: ''
